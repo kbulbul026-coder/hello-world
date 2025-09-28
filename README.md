@@ -1,1 +1,1 @@
-it detail repo.Only for show.
+it detail repo.Only for show.some more detail.
